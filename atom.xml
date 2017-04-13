@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>曜丸日报</title>
+  <subtitle>来自宇宙背景辐射的新闻</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://524a.tech/"/>
+  <updated>2017-04-13T03:28:43.729Z</updated>
+  <id>http://524a.tech/</id>
+  
+  <author>
+    <name>524</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>历史上的今天</title>
+    <link href="http://524a.tech/%5Bobject%20Object%5D/1/"/>
+    <id>http://524a.tech/[object Object]/1/</id>
+    <published>2017-04-13T03:25:50.000Z</published>
+    <updated>2017-04-13T03:28:43.729Z</updated>
+    
+    <content type="html"><![CDATA[<p>热<br>烈<br>祝<br>贺</p>
+<p>曜<br>丸<br>日<br>报<br>创<br>刊<br>了<br>！</p>
+<a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;热&lt;br&gt;烈&lt;br&gt;祝&lt;br&gt;贺&lt;/p&gt;
+&lt;p&gt;曜&lt;br&gt;丸&lt;br&gt;日&lt;br&gt;报&lt;br&gt;创&lt;br&gt;刊&lt;br&gt;了&lt;br&gt;！&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="history" scheme="http://524a.tech/tags/history/"/>
+    
+  </entry>
+  
+</feed>
