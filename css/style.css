@@ -805,3 +805,70 @@ pre .clojure .title {
 pre .deletion {
   color: #dc322f;
 }
+.email-subscribe {
+  background-color: #fff;
+  box-shadow: 0 0 2px #aaa;
+  color: rgba(0,0,0,0.5);
+}
+.email-subscribe h2 {
+  color: inherit;
+  border-bottom: 1px solid rgba(0,0,0,0.3);
+  padding: 1.2rem;
+}
+.email-subscribe div.email-panel {
+  padding: 1.2rem;
+  padding-bottom: 0.1rem;
+}
+.email-subscribe label {
+  margin-bottom: 0.5rem;
+}
+.email-subscribe input[type='email'] {
+  position: relative;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid rgba(0,0,0,0.3);
+  background-color: transparent;
+  font-size: 1.5rem;
+  padding: 2px;
+  width: 100%;
+  color: rgba(0,0,0,0.4);
+}
+.email-subscribe input[type='email'] ~ span {
+  display: block;
+  position: relative;
+  height: 2px;
+  background-color: #5f9ea0;
+  width: 100%;
+  left: 0;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transition: -webkit-transform 0.5s ease-in-out;
+  transition: -webkit-transform 0.5s ease-in-out;
+  transition: transform 0.5s ease-in-out;
+  transition: transform 0.5s ease-in-out, -webkit-transform 0.5s ease-in-out;
+}
+.email-subscribe input[type='email']:focus ~ span {
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
+.email-subscribe .clear {
+  padding: 0.7rem 1.2rem;
+}
+.email-subscribe .clear input[type='submit'] {
+  position: relative;
+  padding: 0.6rem;
+  outline: none;
+  border: 1px solid #aaa;
+  background-color: transparent;
+  color: inherit;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  -webkit-transition: background-color 0.3s ease-in;
+  transition: background-color 0.3s ease-in;
+  cursor: pointer;
+}
+.email-subscribe .clear input[type='submit']:hover {
+  background-color: #5f9ea0;
+  border-color: #5f9ea0;
+}
