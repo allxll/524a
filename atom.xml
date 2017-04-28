@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://524a.tech/"/>
-  <updated>2017-04-16T10:58:35.937Z</updated>
+  <updated>2017-04-28T07:27:52.859Z</updated>
   <id>http://524a.tech/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>A Message</title>
+    <link href="http://524a.tech/2017/04/28/message/"/>
+    <id>http://524a.tech/2017/04/28/message/</id>
+    <published>2017-04-28T07:27:02.000Z</published>
+    <updated>2017-04-28T07:27:52.859Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="A-Message"><a href="#A-Message" class="headerlink" title="A Message"></a>A Message</h2><a id="more"></a> 
+<img src="/2017/04/28/message/fez.jpg" alt="fez" title="fez">
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;A-Message&quot;&gt;&lt;a href=&quot;#A-Message&quot; class=&quot;headerlink&quot; title=&quot;A Message&quot;&gt;&lt;/a&gt;A Message&lt;/h2&gt;
+    
+    </summary>
+    
+      <category term="news" scheme="http://524a.tech/categories/news/"/>
+    
+    
+      <category term="entertainment" scheme="http://524a.tech/tags/entertainment/"/>
+    
+  </entry>
   
   <entry>
     <title>微波所及《电磁场与波》课堂学生携手参加文化娱乐活动</title>
@@ -35,9 +59,9 @@
       <category term="news" scheme="http://524a.tech/categories/news/"/>
     
     
-      <category term="performace" scheme="http://524a.tech/tags/performace/"/>
-    
       <category term="entertainment" scheme="http://524a.tech/tags/entertainment/"/>
+    
+      <category term="performace" scheme="http://524a.tech/tags/performace/"/>
     
   </entry>
   
